@@ -8,7 +8,7 @@
 	"tag_name":"1.1.0",
 	"horizon_ext_api":"http://13.229.138.83:8001",
 	"doc_url":"",
-    "stellar": {
+    "tangchain": {
 	
       "smartlands.io": {
         "name": "Smartlands",
