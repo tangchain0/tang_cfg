@@ -11,9 +11,9 @@
 	
     "tangchain": {
 	
-      "smartlands.io": {
-        "name": "cnytest",
-        "website": "https://tangchian.io",
+      "tangchain.io": {
+        "name": "Buy CNY to Donate",
+        "website": "https://tangchain.io",
         "assets": [
           	  {"code": "CNY", "issuer": "GB3LWCQKCXV7OSZII5UG7H7Q6AO7TYNAT65WXHUFC2OCXX4VDUO7LRUG", "display_decimals": 7, "list": true}
        		],
